@@ -1,0 +1,35 @@
+[2025-11-21 23:22:42] [VOICE] help
+[2025-11-21 23:22:52] [VOICE] help
+[2025-11-21 23:23:02] [VOICE] i mean help
+[2025-11-21 23:23:15] [VOICE] ok what time is it
+[2025-11-21 23:23:32] [VOICE] what time is it
+[2025-11-21 23:23:38] [VOICE] quit
+[2025-11-21 23:24:00] [MANUAL] help
+[2025-11-21 23:37:28] [VOICE] help
+[2025-11-21 23:37:43] [VOICE] time what time is it
+[2025-11-22 00:00:30] [VOICE] help
+[2025-11-22 00:00:36] [VOICE] tell me what time is it
+[2025-11-22 00:00:47] [VOICE] what's today's date
+[2025-11-22 00:00:58] [VOICE] i
+[2025-11-22 00:01:03] [VOICE] change voice down
+[2025-11-22 00:01:15] [VOICE] exit
+[2025-11-22 00:19:25] [VOICE] how can you be your help
+[2025-11-22 00:19:31] [VOICE] tell me what time is
+[2025-11-22 00:19:37] [VOICE] can't you speak
+[2025-11-22 00:19:45] [VOICE] search
+[2025-11-22 00:19:59] [VOICE] that's for chelse
+[2025-11-22 00:20:05] [VOICE] search chel
+[2025-11-22 00:20:15] [VOICE] can you help
+[2025-11-22 00:20:19] [VOICE] chelsea
+[2025-11-22 00:20:26] [VOICE] french chelsea
+[2025-11-22 00:20:34] [VOICE] can you search for chelsea please help
+[2025-11-22 00:20:45] [VOICE] why you not talking
+[2025-11-22 00:20:53] [VOICE] adjust volume
+[2025-11-22 00:21:00] [VOICE] louder
+[2025-11-22 00:21:07] [VOICE] you still not talking
+[2025-11-22 00:21:28] [MANUAL] quit
+[2025-11-22 00:37:32] [VOICE] help help
+[2025-11-22 00:37:37] [VOICE] so tell me the time
+[2025-11-22 00:37:47] [VOICE] tell me time and
+[2025-11-22 00:37:53] [VOICE] dates also
+[2025-11-22 00:49:52] [VOICE] help
